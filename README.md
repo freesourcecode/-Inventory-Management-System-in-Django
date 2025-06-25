@@ -70,7 +70,7 @@ Third, select a file location wherever you want.
 
 Fourth, name your application.
 
-https://itsourcecode.com/wp-content/uploads/2020/12/Creating-application-name-for-Inventory-Management-System-Project-using-Django-with-Source-Code.png
+![image](https://github.com/user-attachments/assets/372eddef-9fe9-42a1-97ff-d9656514118c)
 
 5. **Click create**.
 
